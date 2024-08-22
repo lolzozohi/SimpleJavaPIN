@@ -1,5 +1,7 @@
 # SimpleJavaPIN
 
+just run the code and type in the password.
+
 https://replit.com/@Lolzozohi/SimpleJavaPin
 
 <img width="497" alt="Screenshot 2024-08-22 at 4 44 56 PM" src="https://github.com/user-attachments/assets/e89c1664-1cfa-435c-b94e-90e71ed79c29">
